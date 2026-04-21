@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "tavily-mcp-server": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["src/mcp_server.py"]
+    }
+  }
+}
